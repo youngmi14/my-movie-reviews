@@ -7,6 +7,7 @@ import {
 import Root from './routes/root';
 import MyReview from './pages/MyReview/MyReviewPage';
 import MakeReview from './pages/MakeReview/MakeReviewPage';
+import Tag from './pages/Tag/TagPage';
 import './index.css';
 
 const router = createBrowserRouter([
@@ -21,6 +22,10 @@ const router = createBrowserRouter([
   {
     path: "/makereview",
     element: <MakeReview />,
+  },
+  {
+    path: "/tag",
+    element: <Tag />,
   }
 ])
 

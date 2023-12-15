@@ -26,7 +26,7 @@ function ReviewBox ({ item }) {
                     <div className='rounded-md px-2 py-1 text-xs font-semibold bg-rose-400 text-rose-900'>연기</div>
                     <div className='rounded-md px-2 py-1 text-xs font-semibold bg-violet-400 text-violet-900'>시대물</div>
                     <div className='rounded-md px-2 py-1 text-xs font-semibold bg-emerald-400 text-emerald-900'>시대물</div>
-                    <div className='rounded-md px-2 py-1 text-xs font-semibold bg-yellow-400 text-yellow-900'>시대물</div>
+                    <div className='rounded-md px-2 py-1 text-xs font-semibold bg-yellow-400 text-yellow-900'>히어로물</div>
                     <div className='rounded-md px-2 py-1 text-xs font-semibold bg-indigo-400 text-indigo-900'>시대물</div>
                 </div>
             </div>
